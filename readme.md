@@ -10,6 +10,14 @@
 ## Prize Structure
 <p><img src="https://pp.userapi.com/c846321/v846321901/117d85/heCNGnmEesU.jpg" /></p>
 
+
+### Console Use Of SendMoney 
+
+To activate parser, you need to call it via the command line with N of packets argument  ...
+```
+php artisan money:send {per_run : Number of packets sent at once. }
+```
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
