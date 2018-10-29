@@ -13,7 +13,7 @@
 
 ### Console Use Of SendMoney 
 
-To activate parser, you need to call it via the command line with N of packets argument  ...
+To activate SendMoney, you need to call it via the command line with N of packets argument  ...
 ```
 php artisan money:send {per_run : Number of packets sent at once. }
 ```
